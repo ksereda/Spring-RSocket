@@ -1,7 +1,6 @@
 package com.example.movieservice.controller;
 
 import com.example.movieservice.model.Movie;
-import com.example.movieservice.model.RequestMovie;
 import com.example.movieservice.repository.MovieRepository;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.web.bind.annotation.*;
